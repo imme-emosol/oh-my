@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"outDir": "./ts_out_dir",
+		"rootDir": "./sources",
+		"strict": true,
+		"target": "es2018"
+	},
+	"exclude": [
+		"node_modules"
+	],
+	"files": [
+		"sources/index.ts"
+//	],
+//	"include": [
+//		"sources/**/*"
+	]
+}

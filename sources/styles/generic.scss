@@ -1,0 +1,15 @@
+@import 'variables' ;
+
+a
+{
+  color : $colors-blue ;
+  background-color : inherit ;
+  text-decoration: underline ;
+}
+
+#root
+{
+  font-family : sans-serif ;
+  color : $colors-black ;
+  background-color : $colors-white ;
+}
